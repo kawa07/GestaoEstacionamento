@@ -1,0 +1,3 @@
+TESTE1234;Uno;Branco;11:45:21
+TESTE23451;Creta;Cinza;11:45:38
+PQESDA123;Corsa;Preto;11:45:59
